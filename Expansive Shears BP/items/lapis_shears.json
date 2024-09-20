@@ -1,0 +1,22 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "multimc:lapis_shears",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:icon": "lapis_shears",
+			"minecraft:max_stack_size": 1,
+			"minecraft:durability": {
+				"max_durability": 150
+			},
+			"minecraft:enchantable": {
+				"value": 7,
+				"slot": "shears"
+			}
+		}
+	}
+}

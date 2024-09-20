@@ -1,0 +1,36 @@
+{
+	"resource_pack_name": "More Shears Expansion",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"amethyst_shears": {
+			"textures": "textures/items/amethyst_shears"
+		},
+		"cobblestone_shears": {
+			"textures": "textures/items/cobblestone_shears"
+		},
+		"copper_shears": {
+			"textures": "textures/items/copper_shears"
+		},
+		"emerald_shears": {
+			"textures": "textures/items/emerald_shears"
+		},
+		"diamond_shears": {
+			"textures": "textures/items/diamond_shears"
+		},
+		"gold_shears": {
+			"textures": "textures/items/gold_shears"
+		},
+		"lapis_shears": {
+			"textures": "textures/items/lapis_shears"
+		},
+		"netherite_shears": {
+			"textures": "textures/items/netherite_shears"
+		},
+		"obsidian_shears": {
+			"textures": "textures/items/obsidian_shears"
+		},
+		"wooden_shears": {
+			"textures": "textures/items/wooden_shears"
+		}
+	}
+}

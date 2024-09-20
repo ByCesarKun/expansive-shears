@@ -1,0 +1,17 @@
+pack.name=Expansive Shears RP
+pack.description=
+tile.multimc:amethyst_shears.name=Amethyst Shears
+tile.multimc:cobblestone_shears.name=Cobblestone Shears
+tile.multimc:copper_shears.name=Copper Shears
+tile.multimc:diamond_shears.name=Diamond Shears
+tile.multimc:emerald_shears.name=Emerald Shears
+item.multimc:amethyst_shears=Amethyst Shears
+item.multimc:cobblestone_shears=Cobblestone Shears
+item.multimc:copper_shears=Copper Shears
+item.multimc:emerald_shears=Emerald Shears
+item.multimc:diamond_shears=Diamond Shears
+item.multimc:golden_shears=Gold Shears
+item.multimc:lapis_shears=Lapis Shears
+item.multimc:netherite_shears=Netherite Shears
+item.multimc:obsidian_shears=Obsidian Shears
+item.multimc:wooden_shears=Wooden Shears
